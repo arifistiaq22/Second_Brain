@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "91c8130bad86fe6c",
+    "type": "split",
+    "children": [
+      {
+        "id": "9e606dae8a7da4fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9fbf15c631e8c47a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "40 Courses/Datacamp/Introduction to Git/Introduction to Version Control.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Introduction to Version Control"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "75559c3337642dfe",
+    "type": "split",
+    "children": [
+      {
+        "id": "cd2e4ab36dce529a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8b324ef803d3aedf",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "8f081c00ce2e7f2b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "2478afacecc9f3a0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "a6a326ad82a41b08",
+    "type": "split",
+    "children": [
+      {
+        "id": "c5b483947cbed7b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cd2ef54f2356a840",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "README.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for README"
+            }
+          },
+          {
+            "id": "260b8ac5f2f9bb26",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "README.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from README"
+            }
+          },
+          {
+            "id": "3923eb237b0e7fbc",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "4432fd324b036bf2",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "ad82177bd0d84945",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "README.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of README"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false
+    }
+  },
+  "active": "8b324ef803d3aedf",
+  "lastOpenFiles": [
+    "40 Courses/Datacamp/Introduction to Git/Slides/Chapter 1.pdf",
+    "40 Courses/Datacamp/Introduction to Git/Introduction to Version Control.md",
+    "40 Courses/Datacamp/Introduction to Git/Slides",
+    "40 Courses/Datacamp/Introduction to Git/Slides/Chapter 2.pdf",
+    "Git Branching Strategies.md",
+    "50 CP/Untitled.md",
+    "40 Courses/Datacamp/Introduction to Git",
+    "40 Courses/Datacamp",
+    "Data.md",
+    "40 Courses",
+    "README.md",
+    "50 CP"
+  ]
+}
