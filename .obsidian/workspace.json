@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "40 Courses/Datacamp/Introduction to Git/Introduction to Version Control.md",
+                "file": "30 YouTube/Core Dumped/Computer Architecture from Scratch/02 HOW TRANSISTORS REMEMBER DATA.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Introduction to Version Control"
+              "title": "02 HOW TRANSISTORS REMEMBER DATA"
             }
           }
         ]
@@ -183,19 +183,35 @@
       "bases:Create new base": false
     }
   },
-  "active": "8b324ef803d3aedf",
+  "active": "9fbf15c631e8c47a",
   "lastOpenFiles": [
-    "40 Courses/Datacamp/Introduction to Git/Slides/Chapter 1.pdf",
+    "30 YouTube/Core Dumped/Computer Architecture from Scratch/01 HOW TRANSISTORS RUN CODE.md",
+    "30 YouTube/Core Dumped/Computer Architecture from Scratch/02 HOW TRANSISTORS REMEMBER DATA.md",
+    "30 YouTube/Core Dumped/Computer Architecture from Scratch/Images/Pasted image 20260317125254.png",
+    "30 YouTube/Core Dumped/Computer Architecture from Scratch/Images/Pasted image 20260317125224.png",
+    "30 YouTube/Core Dumped/Computer Architecture from Scratch/Images/Pasted image 20260317125120.png",
+    "30 YouTube/Core Dumped/Computer Architecture from Scratch/Images/Pasted image 20260317124848.png",
+    "Pasted image 20260317124803.png",
+    "30 YouTube/Core Dumped/Computer Architecture from Scratch/Images/Pasted image 20260317124711.png",
+    "30 YouTube/Core Dumped/Computer Architecture from Scratch/Images/Pasted image 20260317124637.png",
+    "50 CP/Untitled.md",
+    "30 YouTube/Core Dumped/Computer Architecture from Scratch/Images/Pasted image 20260317124456.png",
+    "30 YouTube/Core Dumped/Computer Architecture from Scratch/Images/Pasted image 20260317124429.png",
+    "30 YouTube/Core Dumped/Computer Architecture from Scratch/Images/Pasted image 20260317124349.png",
+    "30 YouTube/Core Dumped/Computer Architecture from Scratch/Images",
     "40 Courses/Datacamp/Introduction to Git/Introduction to Version Control.md",
+    "Untitled.md",
+    "30 YouTube/Core Dumped/Computer Architecture from Scratch",
+    "30 YouTube/Core Dumped",
+    "30 YouTube",
+    "40 Courses/Datacamp/Introduction to Git/Slides/Chapter 1.pdf",
     "40 Courses/Datacamp/Introduction to Git/Slides",
     "40 Courses/Datacamp/Introduction to Git/Slides/Chapter 2.pdf",
     "Git Branching Strategies.md",
-    "50 CP/Untitled.md",
     "40 Courses/Datacamp/Introduction to Git",
     "40 Courses/Datacamp",
     "Data.md",
     "40 Courses",
-    "README.md",
-    "50 CP"
+    "README.md"
   ]
 }
