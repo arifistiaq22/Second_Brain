@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "30 YouTube/Core Dumped/Computer Architecture from Scratch/02 HOW TRANSISTORS REMEMBER DATA.md",
+                "file": "30 YouTube/Core Dumped/Threads On Multicore Systems.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "02 HOW TRANSISTORS REMEMBER DATA"
+              "title": "Threads On Multicore Systems"
             }
           }
         ]
@@ -185,20 +185,31 @@
   },
   "active": "9fbf15c631e8c47a",
   "lastOpenFiles": [
-    "30 YouTube/Core Dumped/Computer Architecture from Scratch/01 HOW TRANSISTORS RUN CODE.md",
-    "30 YouTube/Core Dumped/Computer Architecture from Scratch/02 HOW TRANSISTORS REMEMBER DATA.md",
-    "30 YouTube/Core Dumped/Computer Architecture from Scratch/Images/Pasted image 20260317125254.png",
-    "30 YouTube/Core Dumped/Computer Architecture from Scratch/Images/Pasted image 20260317125224.png",
-    "30 YouTube/Core Dumped/Computer Architecture from Scratch/Images/Pasted image 20260317125120.png",
-    "30 YouTube/Core Dumped/Computer Architecture from Scratch/Images/Pasted image 20260317124848.png",
+    "30 YouTube/Core Dumped/Why Are Threads Needed On Single Core Processors.md",
+    "30 YouTube/Core Dumped/Threads On Multicore Systems.md",
+    "30 YouTube/Core Dumped/The Fancy Algorithms That Make Your Computer Feel Smoother.md",
+    "30 YouTube/Core Dumped/Concurrency Is Not What You Think.md",
+    "During.md",
+    "30 YouTube/Core Dumped/How CPUs Interact With So Many Different Devices.md",
+    "30 YouTube/Core Dumped/How The Clock Tells The CPU To Move Forward.md",
+    "30 YouTube/Core Dumped/How Computer Processors Run Conditions And Loops.md",
+    "30 YouTube/Core Dumped/Capacitors Are Terrible At Remembering Data, But For This Reason We Continue Doing It.md",
+    "30 YouTube/Core Dumped/Crafting A CPU To Run Programs.md",
+    "30 YouTube/Core Dumped/How Transistors Remember Data.md",
+    "30 YouTube/Core Dumped/How Transistors Run Code.md",
+    "30 YouTube/Core Dumped/Operating Systems Theory",
+    "30 YouTube/Core Dumped/Images/Pasted image 20260317125254.png",
+    "30 YouTube/Core Dumped/Images/Pasted image 20260317125224.png",
+    "30 YouTube/Core Dumped/Images/Pasted image 20260317125120.png",
+    "30 YouTube/Core Dumped/Images/Pasted image 20260317124848.png",
     "Pasted image 20260317124803.png",
-    "30 YouTube/Core Dumped/Computer Architecture from Scratch/Images/Pasted image 20260317124711.png",
-    "30 YouTube/Core Dumped/Computer Architecture from Scratch/Images/Pasted image 20260317124637.png",
+    "30 YouTube/Core Dumped/Images/Pasted image 20260317124711.png",
+    "30 YouTube/Core Dumped/Images/Pasted image 20260317124637.png",
     "50 CP/Untitled.md",
-    "30 YouTube/Core Dumped/Computer Architecture from Scratch/Images/Pasted image 20260317124456.png",
-    "30 YouTube/Core Dumped/Computer Architecture from Scratch/Images/Pasted image 20260317124429.png",
-    "30 YouTube/Core Dumped/Computer Architecture from Scratch/Images/Pasted image 20260317124349.png",
-    "30 YouTube/Core Dumped/Computer Architecture from Scratch/Images",
+    "30 YouTube/Core Dumped/Images/Pasted image 20260317124456.png",
+    "30 YouTube/Core Dumped/Images/Pasted image 20260317124429.png",
+    "30 YouTube/Core Dumped/Images/Pasted image 20260317124349.png",
+    "30 YouTube/Core Dumped/Images",
     "40 Courses/Datacamp/Introduction to Git/Introduction to Version Control.md",
     "Untitled.md",
     "30 YouTube/Core Dumped/Computer Architecture from Scratch",
@@ -211,7 +222,6 @@
     "40 Courses/Datacamp/Introduction to Git",
     "40 Courses/Datacamp",
     "Data.md",
-    "40 Courses",
     "README.md"
   ]
 }

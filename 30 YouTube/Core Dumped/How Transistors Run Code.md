@@ -59,3 +59,6 @@ The video emphasizes that while a computer is just billions of transistors, we u
 2. **Logic Gates** (Boolean Logic)
 3. **Adders/Decoders** (Arithmetic/Selection)
 4. **ALU/CPU** (Complex Instructions)
+
+Next Section:
+[[How Transistors Remember Data]]
